@@ -6,9 +6,9 @@ namespace LanguageFeatures.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        public string Index()
         {
-            return View();
+            return "Navigate to a url to show an example";
         }
 
     }
