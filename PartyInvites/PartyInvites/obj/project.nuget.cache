@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JTFhk0EmTQ9bxUtBMOZ4T6n0LthSwdk1WUhaaBOnRdwNph85qxy9qd8OPW7MdI5vC5YeNw1bmUycRW8qQiGhpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mphan\\Documents\\c-sharp\\asp.net\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mphan\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

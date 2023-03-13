@@ -1,0 +1,36 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta name="viewport" content="width:device-width" />
+        <title>Index</title>
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+        <style>
+            body {
+                background-color: #F1F1F1;
+            }
+            .btn a {
+                color: white;
+                text-decoration: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="text-center">
+            @ViewBag.Greeting World (from view)
+            <p>
+                We are going to have an exciting party
+                <br />
+                (To do: sell it better. add picture or something.)
+            </p>
+            @*@Html.ActionLink("RSVP Now", "RsvpForm")*@
+            <div class="btn btn-success">
+                <a asp-action="RsvpForm" asp-controller="Home">Form</a>
+            </div>
+        </div>
+    </body>
+</html>
