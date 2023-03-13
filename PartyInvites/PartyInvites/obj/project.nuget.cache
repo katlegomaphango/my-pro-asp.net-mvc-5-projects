@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JTFhk0EmTQ9bxUtBMOZ4T6n0LthSwdk1WUhaaBOnRdwNph85qxy9qd8OPW7MdI5vC5YeNw1bmUycRW8qQiGhpQ==",
+  "dgSpecHash": "JfrpHTtXXo21hwycviteAwo1rCjEPPvQptnC9w2DVbSXLjuiqgx4Cq99u7ZmRf8b23k8Qa6VDcYr7K/m3PIJ8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mphan\\Documents\\c-sharp\\asp.net\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+  "projectFilePath": "C:\\Users\\mphan\\Documents\\c-sharp\\asp.net\\my-pro-asp.net-mvc-5-projects\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mphan\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512"
   ],

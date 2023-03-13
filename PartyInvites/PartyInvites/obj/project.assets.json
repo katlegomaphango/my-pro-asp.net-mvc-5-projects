@@ -342,11 +342,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mphan\\Documents\\c-sharp\\asp.net\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+      "projectUniqueName": "C:\\Users\\mphan\\Documents\\c-sharp\\asp.net\\my-pro-asp.net-mvc-5-projects\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
       "projectName": "PartyInvites",
-      "projectPath": "C:\\Users\\mphan\\Documents\\c-sharp\\asp.net\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+      "projectPath": "C:\\Users\\mphan\\Documents\\c-sharp\\asp.net\\my-pro-asp.net-mvc-5-projects\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
       "packagesPath": "C:\\Users\\mphan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mphan\\Documents\\c-sharp\\asp.net\\PartyInvites\\PartyInvites\\obj\\",
+      "outputPath": "C:\\Users\\mphan\\Documents\\c-sharp\\asp.net\\my-pro-asp.net-mvc-5-projects\\PartyInvites\\PartyInvites\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mphan\\AppData\\Roaming\\NuGet\\NuGet.Config",
